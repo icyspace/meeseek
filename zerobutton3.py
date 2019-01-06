@@ -14,7 +14,7 @@ import json as simplejson
 
 
 # api-endpoint
-url = "https://prod-27.centralus.logic.azure.com:443/workflows/acc0c1324fc74d709157c9b610286812/triggers/ma$
+url = "<ENTER END POINT>"
 headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
 
 #startup
